@@ -12,6 +12,7 @@ Embedding-related repos from CodeFuse, including:
 - [F2LLM](./F2LLM/README.md)
 - [ML-Embed](./ML-Embed/README.md)
 - [CoREB](https://github.com/hq-bench/coreb)
+- [Awesome-Omnimodal-Embeddings](https://github.com/codefuse-ai/Awesome-Omnimodal-Embeddings)
 
 **Star History**
 
